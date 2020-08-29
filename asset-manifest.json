@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/visualbi/frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/visualbi/frontend/static/js/main.34af31c1.chunk.js",
+    "main.js.map": "/visualbi/frontend/static/js/main.34af31c1.chunk.js.map",
+    "runtime-main.js": "/visualbi/frontend/static/js/runtime-main.92d645a6.js",
+    "runtime-main.js.map": "/visualbi/frontend/static/js/runtime-main.92d645a6.js.map",
+    "static/js/2.0bbfc58e.chunk.js": "/visualbi/frontend/static/js/2.0bbfc58e.chunk.js",
+    "static/js/2.0bbfc58e.chunk.js.map": "/visualbi/frontend/static/js/2.0bbfc58e.chunk.js.map",
+    "index.html": "/visualbi/frontend/index.html",
+    "precache-manifest.6ab55cb92c8d06db51c6dcc98d8cdfb4.js": "/visualbi/frontend/precache-manifest.6ab55cb92c8d06db51c6dcc98d8cdfb4.js",
+    "service-worker.js": "/visualbi/frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/visualbi/frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0bbfc58e.chunk.js.LICENSE.txt": "/visualbi/frontend/static/js/2.0bbfc58e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d645a6.js",
+    "static/js/2.0bbfc58e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.34af31c1.chunk.js"
+  ]
+}
