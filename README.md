@@ -20,3 +20,5 @@ The backend part is into `backend` folder
 The frontend part is into `frontend` part.
 
 The respective README.md for the backend and frontend parts are in the respective folders.
+
+## FrontEnd deployed link - https://vishnuprasadb.github.io/visualbi/
